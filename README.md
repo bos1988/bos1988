@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oleg
 - 👀 I’m interested in DataScience and Analytics
-- 🌱 I’m currently learning Git and Docker
+- 🌱 I’m currently learning ML, Docker
 - 💞️ I’m looking to collaborate on ML-projects
 - 📫 How to reach me: bos1988@mail.ru
 
