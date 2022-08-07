@@ -2,7 +2,7 @@
 - 👀 I’m interested in DataScience and Analytics
 - 🌱 I’m currently learning ML, Docker
 - 💞️ I’m looking to collaborate on ML-projects
-- 📫 How to reach me: bos1988@mail.ru
+- 📫 How to reach me: bos1988@yandex.ru; @Oleg_Budin
 
 <!---
 bos1988/bos1988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
